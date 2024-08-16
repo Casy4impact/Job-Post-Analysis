@@ -7,7 +7,7 @@ Through comprehensive analysis of the dataset, the project endeavors to yield ac
 - ❑ Identify trends, patterns, and insights related to the different technology jobs.
 - ❑ Visualize the analysis results using appropriate charts, graphs, and visual representations.
 
- ##  Kyey Insights 
+ ##  Key Insights 
 - In contrast to Great Britain and Canada, the dataset suggests a higher volume of job openings in the United States.
 - A predominant portion, specifically 41.57%, of job postings originates from linkedin.com, with LinkedIn.com leading in the number of job postings, followed by uk.linkedin.com.
 - London and Toronto stand out as the cities boasting the highest number of job openings, indicating a robust employment market in these metropolitan centers.
@@ -47,3 +47,5 @@ full-time job postings reign supreme. This observation suggests a strong overall
 - Emphasize data skills: Clearly outline data-related requirements and responsibilities in job descriptions to attract qualified candidates.
 - Utilize employer websites: Leverage your website as a recruitment platform and maintain updated job postings.
 - Offer diverse employment options: Consider offering part-time and contract roles alongside full-time positions to cater to different preferences.
+
+Teammates: @NdibeIfeoma @Casy4impact @TariTech28
